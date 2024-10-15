@@ -1,0 +1,13 @@
+<addon id="plugin.audio.moodeaudio" version="1.0.0" name="MoodeAudio Controller" provider-name="YourName">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Control MoodeAudio from Kodi</summary>
+        <description lang="en">This addon allows you to control playback and radio stations on MoodeAudio via Kodi.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
