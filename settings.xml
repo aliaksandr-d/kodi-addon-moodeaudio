@@ -1,0 +1,5 @@
+<settings>
+    <category label="MoodeAudio Settings">
+        <setting id="moode_url" type="text" label="MoodeAudio Base URL" default="http://192.168.0.1"/>
+    </category>
+</settings>
