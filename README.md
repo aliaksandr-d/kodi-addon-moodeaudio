@@ -30,7 +30,7 @@ The typical path for Kodi addons is:
 - **Playback Control:** Play, pause, or stop the current track.
 
 ## Configuration
-###Setting the MoodeAudio Host
+### Setting the MoodeAudio Host
 
 - In Kodi, navigate to **Add-ons > My Add-ons > Music Add-ons > MoodeAudio Player**.
 - Open **Settings** and input the IP address of your MoodeAudio device in the **MoodeAudio Host** field (e.g., `192.168.0.8`).
